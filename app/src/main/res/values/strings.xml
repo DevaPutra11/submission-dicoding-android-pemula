@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dicoding-AndroidPemula-Submission</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="food">Makanan</string>
+    <string name="name_of_food">Nama Makanan</string>
+    <string name="origin">Asal Daerah</string>
+    <string name="origin_of_food">Daerah</string>
+    <string name="food_image">Gambar Makanan</string>
+    <string name="type">Jenis Makanan</string>
+    <string name="type_of_food">Tipe Makanan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="detail_food">Detail Makanan</string>
+    <string name="about">About</string>
+    <string name="deva">Muhammad Al Frizal Deva Syach Putra</string>
+    <string name="deva_email">malfrizaldevas@gmail.com</string>
+    <string name="logo">Logo</string>
+</resources>
